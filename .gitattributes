@@ -1,0 +1,6 @@
+ephemerides/** filter=lfs diff=lfs merge=lfs -text
+alma/** filter=lfs diff=lfs merge=lfs -text
+catalogs/** filter=lfs diff=lfs merge=lfs -text
+demo/** filter=lfs diff=lfs merge=lfs -text
+geodetic/** filter=lfs diff=lfs merge=lfs -text
+nrao/** filter=lfs diff=lfs merge=lfs -text
